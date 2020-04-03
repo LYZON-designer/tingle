@@ -31,6 +31,7 @@
     "gulp-uglify": "^3.0.2"
   },
   "scripts": {
+    "default": "gulp",
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "./node_modules/.bin/eslint src/**.js"
   },
